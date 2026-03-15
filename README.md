@@ -27,5 +27,17 @@ ESC calibration, and basic flight testing.
 - ESC calibration and motor direction configuration
 - Flight controller PID tuning fundamentals
 
+## Challenges(Occur Often)
+- Motor Direction Issues
+- Drone Flipping on Takeoff
+- ESC Calibration
+- Unstable Hovering
+
 ## Status
 ✅ Successfully hovered and achieved basic directional control
+
+## Challenges Faced
+- Motor Direction Issues
+- Drone Flipping on Takeoff
+- ESC Calibration
+- Unstable Hovering
