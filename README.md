@@ -25,7 +25,6 @@ ESC calibration, and basic flight testing.
 ## Learnings
 - Basics of drone aerodynamics and thrust balance
 - ESC calibration and motor direction configuration
-- Flight controller PID tuning fundamentals
 
 ## Possible Challenges
 - Motor Direction Issues
